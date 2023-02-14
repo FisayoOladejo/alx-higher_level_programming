@@ -1,0 +1,3 @@
+HOW DATABASES; ...
+
+>mysql -u root -p Enter password: ********** mysql>
