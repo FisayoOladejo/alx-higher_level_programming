@@ -1,3 +1,2 @@
-HOW DATABASES; ...
-
->mysql -u root -p Enter password: ********** mysql>
+-- Lists all databases of the MySQL server.
+SHOW DATABASES;
